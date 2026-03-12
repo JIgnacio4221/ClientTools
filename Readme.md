@@ -114,9 +114,7 @@ Better alternatives to `ls`, `cat`, `find`, `du`, and `df` — with color, tree 
 
 | Name | Summary | Description | OS | Repository | Latest Version | License | Open Source |
 |------|---------|-------------|:--:|------------|:--------------:|---------|:-----------:|
-| [bat](https://github.com/sharkdp/bat) | `cat` with syntax highlighting and Git integration | Displays file contents with syntax highlighting for hundreds of languages, line numbers, and inline git diff markers. Supports paging and acts as a drop-in replacement for `cat` in most scripts. | All | [sharkdp/bat](https://github.com/sharkdp/bat) | ![GitHub Release](https://img.shields.io/g
-
-ithub/v/release/sharkdp/bat?label=) | Apache-2.0/MIT | ✅ |
+| [bat](https://github.com/sharkdp/bat) | `cat` with syntax highlighting and Git integration | Displays file contents with syntax highlighting for hundreds of languages, line numbers, and inline git diff markers. Supports paging and acts as a drop-in replacement for `cat` in most scripts. | All | [sharkdp/bat](https://github.com/sharkdp/bat) | ![GitHub Release](https://img.shields.io/github/v/release/sharkdp/bat?label=) | Apache-2.0/MIT | ✅ |
 | [eza](https://eza.rocks/) | Modern, colorful replacement for `ls` | Colorized `ls` with icons, tree view (`--tree`), git status per file, extended attributes, and human-readable output by default. Actively maintained fork of the unmaintained `exa`. | All | [eza-community/eza](https://github.com/eza-community/eza) | ![GitHub Release](https://img.shields.io/github/v/release/eza-community/eza?label=) | EUPL-1.2 | ✅ |
 | [fd](https://github.com/sharkdp/fd) | Fast and user-friendly alternative to `find` | Simpler syntax, respects `.gitignore` by default, colorized output, and significantly faster than GNU `find` on most patterns. | All | [sharkdp/fd](https://github.com/sharkdp/fd) | ![GitHub Release](https://img.shields.io/github/v/release/sharkdp/fd?label=) | Apache-2.0/MIT | ✅ |
 | [dust](https://github.com/bootandy/dust) | Intuitive disk usage with tree visualization | Shows directory sizes as a weighted tree so you immediately see which subdirectory consumes the most space. No configuration needed for useful output. | All | [bootandy/dust](https://github.com/bootandy/dust) | ![GitHub Release](https://img.shields.io/github/v/release/bootandy/dust?label=) | Apache-2.0 | ✅ |
@@ -295,9 +293,7 @@ Music players and audio tools for the terminal.
 | [mpd](https://github.com/MusicPlayerDaemon/MPD) | Music Player Daemon | Server-based music player with client-server architecture. | Lin/mac | [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) | — | GPL-2.0 | ✅ |
 | [moc](https://moc.daper.net/) | Lightweight console audio player | Music On Console - simple and intuitive audio player. | Lin | — | — | GPL-2.0 | ✅ |
 | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | YouTube music player and downloader for terminal | Search, stream, and download YouTube music from terminal. | All | [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) | — | GPL-3.0 | ✅ |
-| [cava](https://github.com/karlstav/cava) | Cross-platform audio visualizer for the terminal | Real-time audio spectrum visualizer with configurable colors. | Lin/mac | [karlstav/cava](https://github.com/karlst
-
-av/cava) | — | MIT | ✅ |
+| [cava](https://github.com/karlstav/cava) | Cross-platform audio visualizer for the terminal | Real-time audio spectrum visualizer with configurable colors. | Lin/mac | [karlstav/cava](https://github.com/karlstav/cava) | — | MIT | ✅ |
 | [sox](http://sox.sourceforge.net/) | Swiss Army knife of audio processing | Convert audio formats, apply effects, generate tones. | Lin/mac | — | — | LGPL-2.1 | ✅ |
 | [spotify-tui](https://github.com/Rigellute/spotify-tui) | Spotify client for the terminal | Control Spotify playback from your terminal (requires spotifyd or Spotify Premium). | All | [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) | — | MIT | ✅ |
 | [spotifyd](https://github.com/Spotifyd/spotifyd) | Lightweight Spotify daemon | Spotify Connect daemon that runs in background. | All | [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) | — | GPL-3.0 | ✅ |
@@ -470,9 +466,7 @@ Entertainment, toys, games, and quirky utilities.
 | [toilet](http://caca.zoy.org/wiki/toilet) | Display large colorful ASCII art text | Like figlet but with color and more font options. | Lin/mac | — | — | WTFPL | ✅ |
 | [genact](https://github.com/svenstaro/genact) | Nonsense activity generator | Pretend to be busy with realistic-looking fake activity. | All | [svenstaro/genact](https://github.com/svenstaro/genact) | — | MIT | ✅ |
 | [wttr.in](https://github.com/chubin/wttr.in) | The right way to check the weather | `curl wttr.in` for beautiful weather forecasts. | All | [chubin/wttr.in](https://github.com/chubin/wttr.in) | — | Apache-2.0 | ✅ |
-| [mapscii](https://github.com/rastapasta/mapscii) | Terminal Map Viewer | Explore OpenStreetMap in your terminal with zoom and panning. | All | [rastap
-
-asta/mapscii](https://github.com/rastapasta/mapscii) | — | MIT | ✅ |
+| [mapscii](https://github.com/rastapasta/mapscii) | Terminal Map Viewer | Explore OpenStreetMap in your terminal with zoom and panning. | All | [rastapasta/mapscii](https://github.com/rastapasta/mapscii) | — | MIT | ✅ |
 | [emoj](https://github.com/sindresorhus/emoj) | Find relevant emoji from text | Quickly search and copy emoji to clipboard. | All | [sindresorhus/emoj](https://github.com/sindresorhus/emoj) | — | MIT | ✅ |
 | [pastel](https://github.com/sharkdp/pastel) | Generate, analyze, convert and manipulate colors | Complete color manipulation toolkit for the terminal. | All | [sharkdp/pastel](https://github.com/sharkdp/pastel) | — | Apache-2.0/MIT | ✅ |
 | [The Fuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command | Already listed in Shell & Navigation but deserves a mention here too. | All | [nvbn/thefuck](https://github.com/nvbn/thefuck) | ![GitHub Release](https://img.shields.io/github/v/release/nvbn/thefuck?label=) | MIT | ✅ |
